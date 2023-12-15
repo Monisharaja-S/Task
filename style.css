@@ -1,0 +1,17 @@
+#icon{
+    font-size: 33px;
+    justify-content: center;
+    display: flex;
+    color:blue
+}
+.card-title{
+    font-size: 33px;
+    justify-content: center;
+    display: flex;
+    color:black;
+}
+
+.card-text{
+    justify-content: center;
+    display: flex;
+}
